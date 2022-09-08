@@ -1,0 +1,19 @@
+.header {
+    background-color:#EE3A43;
+}
+
+.banner {
+    width: 100%;
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.nav-link {
+    color: white;
+    font-size: 150%;
+    font-weight: 500;
+}

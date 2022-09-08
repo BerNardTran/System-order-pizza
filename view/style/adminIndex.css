@@ -1,0 +1,75 @@
+.pagination {
+    position: relative;
+    top: 6vh;
+    left: 80vw;
+}
+
+.orderlist-admin {
+    position: relative;
+}
+
+.input-group-filter {
+    position: relative;
+    top: 1vh;
+    width: 75%;
+    left: 10%;
+}
+
+.order-status-admin-index {
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+.order-status-admin-index p{
+    width: 40px;
+}
+
+.page-link:hover {
+    background-color: aqua;
+}
+
+.btn-primary{
+    background-color: #51CCCC;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+    border-radius: 10px;
+    margin-left: 143vh;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-primary:hover{
+    background-color: #51CCCC;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 30px;
+    border-radius: 10px;
+    margin-left: 143vh;
+    display: flex;
+    justify-content: center;
+}
+
+
+.logoutAdmin{
+    width: 150px;
+    height: 70px;
+    background-color: #51CCCC;
+    margin-left: -200px;
+    font-size: 30;
+    border-radius: 15px;
+    color: white;
+}
+
+.logoutAdmin:hover{
+    width: 170px;
+    height: 70px;
+    background-color: #51CCCC;
+    margin-left: -205px;
+    font-size: 30;
+    border-radius: 15px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

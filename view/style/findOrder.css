@@ -1,0 +1,41 @@
+.input-group {
+    position: relative;
+    top: 4vh;
+    left: 10vw;
+    width: 80vw;
+}
+
+.order-list {
+    position: relative;
+    left: 10vw;
+    top: 5vh;
+    width: 80vw;
+    text-align: center;
+    background-color: white;
+}
+
+.order-list-header {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid;
+    width: 80vw;
+    margin: 0px ;
+}
+
+.order-list-row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 80vw;
+
+}
+
+.order-register-link {
+    text-decoration: none;
+    display: block;
+    color: black;
+}
+
+.input-group-delete {
+    position: relative;
+    top: 6vh;
+}

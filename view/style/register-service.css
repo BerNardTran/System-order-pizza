@@ -1,0 +1,19 @@
+.register-service-from {
+    position: relative;
+    left: 20vw;
+    background-color: white;
+    width: 60vw;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.submitRegister{
+    position: relative;
+    left: -500px;
+}
+
+.register-service-from{
+    height: 65vh;
+}

@@ -1,0 +1,29 @@
+.service-list {
+    position: relative;
+    left: 10vw;
+    top: 5vh;
+    width: 80vw;
+    text-align: center;
+    background-color: white;
+}
+
+.service-list-header {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid;
+    width: 80vw;
+    margin: 0px ;
+}
+
+.service-list-row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 80vw;
+
+}
+
+.service-register-link {
+    text-decoration: none;
+    display: block;
+    color: black;
+}

@@ -1,0 +1,43 @@
+.loginFormAdmin{
+    font-size: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    color:#EE3A43 ;
+}
+
+.loginContentDetails{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.userNameLabel , .passWordLabel{
+    font-size: 30;
+    color:#EE3A43;
+}
+
+
+.buttonSubmit{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 35;
+    border-radius: 10px;
+    margin-left: 350px;
+}
+
+
+.buttonSubmit:hover{
+    padding-left: 45px;
+    padding-right: 45px;
+    border-radius: 15px;
+    background-color: aqua;
+    margin-left: 350px;
+}
+
+
+.loginInput{
+    padding: 12px 20px;
+    box-sizing: border-box;
+    font-size: 30px;
+}
